@@ -419,7 +419,7 @@ section.start-animation .text-content2 .btn{
         opacity: 1;
     }
 }
-/* education section */
+/* Project section */
 .row{
     display: flex;
     column-gap: 4rem;
@@ -459,10 +459,10 @@ section.start-animation .column h2{
 .box{
     border-left: .2rem solid aqua;
 }
-.education-content {
+.project-content {
     padding-left: 1.9rem;
 }
-.education-content .content{
+.project-content .content{
     padding: 1.5rem;
     border: .2rem solid aqua;
     background: rgba(255,255,255,.1);
